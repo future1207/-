@@ -2,4 +2,4 @@ baseURL = '/'
 languageCode = 'en-us'
 title = '孝感斗极元宇宙'
 theme = 'paper'
-relativeUrls=true
+relativeUrls = true
